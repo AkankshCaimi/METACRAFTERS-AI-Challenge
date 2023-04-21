@@ -8,7 +8,7 @@ Customizing ChatGPT with OpenAI’s API, Star Trek Data and Python.
 
 ## How to view the Project
 To view the project, click on the following link: 
-
+https://colab.research.google.com/github/AkankshCaimi/METACRAFTERS-AI-Challenge/blob/main/Module%203/StarTrek_QnA.ipynb
 
 ## Author
 Me :)
