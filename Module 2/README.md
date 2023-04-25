@@ -24,7 +24,7 @@ You can try the following messages:
 
 ## How to view the Project
 To view the project, click on the following link: 
-https://akankshcaimi.github.io/METACRAFTERS-AI-Challenge/
+https://akankshcaimi.github.io/METACRAFTERS-AI-Challenge/Module%202/
 
 ## Author
 Me :)
